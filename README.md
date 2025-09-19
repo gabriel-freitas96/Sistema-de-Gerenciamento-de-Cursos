@@ -66,4 +66,4 @@ Esta aplicação web, desenvolvida em **Spring Boot**, implementa um sistema de 
 ### 💻 Como Executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/usuario/seu-projeto.git
+   git clone https://github.com/gabriel-freitas96/Sistema-de-Gerenciamento-de-Cursos.git
