@@ -1,4 +1,4 @@
-# 🚀 Sistema de Gerenciamento Web Java Spring Boot | H2 Database
+# 🚀 Sistema de Gerenciamento de Cursos
 
 ## 📌 Descrição do Projeto
 Esta aplicação web, desenvolvida em **Spring Boot**, implementa um sistema de gerenciamento com operações **CRUD**. Ela permite gerenciar entidades inter-relacionadas, como **Produtos**, **Categorias** e **Fornecedores**, e implementa quatro tipos de relacionamentos:
