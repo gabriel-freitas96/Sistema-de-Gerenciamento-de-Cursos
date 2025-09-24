@@ -5,8 +5,7 @@ Esta aplicação web, desenvolvida em **Spring Boot**, implementa um sistema de 
 
 - Um-para-Um  
 - Um-para-Muitos  
-- Muitos-para-Um  
-- Muitos-para-Muitos  
+- Muitos-para-Um 
 
 💡 Ideal para estudo de **Spring Boot**, **JPA** e **REST API**.
 
